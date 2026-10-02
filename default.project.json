@@ -1,0 +1,23 @@
+{
+  "name": "cosas-roblox",
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "$path": "src/StarterPlayer"
+    },
+    "Workspace": {
+      "R6_Dummy": {
+        "$path": "src/Workspace/R6_Dummy",
+        "$className": "Model",
+        "$ignoreUnknownInstances": true
+      }
+    }
+  }
+}

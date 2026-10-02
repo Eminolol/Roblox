@@ -1,0 +1,7 @@
+# Place files are not included in this script-focused project
+*.rbxl
+*.rbxlx
+
+# Local Rojo output
+.rojo/
+build/
